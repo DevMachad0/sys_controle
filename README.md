@@ -1,5 +1,6 @@
-# sys_controle
+Descrição
 Este projeto é um sistema de controle de estoque e registro de vendas desenvolvido em Python utilizando PyQt5 para a interface gráfica e SQLite para o banco de dados. O objetivo do sistema é facilitar o gerenciamento de produtos em estoque, registrar saídas de produtos e realizar vendas, mantendo um registro detalhado de todas as transações.
+
 Funcionalidades
 Controle de Estoque
 Cadastro de Produtos: Permite o cadastro de novos produtos no sistema, incluindo informações como código, nome, grupo, unidade de medida, quantidade em estoque, peso, volume e descrição.
@@ -14,3 +15,5 @@ Troco: Calcula e exibe o troco quando o valor pago é maior que o valor total a 
 Gerenciamento de Clientes
 Cadastro de Clientes: Permite o cadastro de clientes no sistema, incluindo informações relevantes para a realização de vendas.
 Seleção de Cliente: Permite a seleção de um cliente para a venda atual a partir de uma lista de clientes cadastrados.
+
+
